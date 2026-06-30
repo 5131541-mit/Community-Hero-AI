@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero AI",
+  "description": "An AI-Powered Hyperlocal Civic Intelligence Platform for Smarter Communities featuring real-time reporting, automated classification, duplicate detection, predictive diagnostics, and neighborhood bulletins.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
